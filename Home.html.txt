@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>InternshipWala Career</title>
+<style>
+.navbar
+{
+background-color:#0099FF;
+padding:10px 5px;
+margin-top:50px;
+}
+.navbar a
+{
+margin-left:12%;
+margin-right:12%;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#CCCCCC;
+font-size:18px;
+text-transform:uppercase;
+text-decoration:none;
+
+}
+.content
+{
+
+width:50%;
+margin: 0 auto;
+border:2px solid #0099FF;
+padding:20px;
+margin-top:40px;
+}
+.footer
+{
+background-color:#0099FF;
+padding:5px 5px;
+margin-top:30px;
+}
+</style>
+</head>
+<body>
+<img src="header.png"  align="left" style="margin-top:10px; margin-left:10px;"/>
+
+<h2 align="center" style="margin-top:20px;">INTERNSHIPWALA CAREER</h2>
+
+
+<div class="navbar">
+<a href="Home.html">Home</a>
+<a href="Courses.html">Course</a>
+<a href="Contact.html">Contact Us</a>
+</div>
+<hr>
+<div class="content">
+<center><h3><u>WHAT IS INTERNSHIP?</u></h3></center>
+<p>Internship is a time tested way of learning a craft or trade under a Master Craftsman through the ages. Apprenticeship Training Scheme is a scheme where young, technically qualified people undergo training under a Master Trainer to become equipped for jobs in the Modern Scenario. It has the double benefit of earning while learning.</p>
+
+<p>It is an agreement between a person who wants to learn a skill and an employer who needs a skilled worker. The Interns are taught the latest applications, processes and methodologies in their respective fields of work from some of the most renowned organisations in India. This also acts as a transition phase for a school / college student from classroom to a working background.</p>
+
+<p>The intern also learns soft skills, work culture, ethics and organisational behaviour while undergoing training. This goes a long way in helping him/ her secure permanent employment in the future. At the end of one year training they are issued a Certificate attesting to their training and proficiency in a particular field. This serves as an experience certificate when they seek employment after their training. Best online internship training program in India</p>
+
+</div>
+
+<div class="footer">
+<center><p style="color:#CCCCCC;">&copy; Copyright 2020 &nbsp;&nbsp;<a href="">internshipwala</a>&nbsp;&nbsp; |&nbsp;&nbsp; All Rights Reserved </p></center>
+
+</div>
+</body>
+</html>
