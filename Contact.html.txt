@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>InternshipWala Career</title>
+<style>
+.navbar
+{
+background-color:#0099FF;
+padding:10px 5px;
+margin-top:50px;
+}
+.navbar a
+{
+margin-left:12%;
+margin-right:12%;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#CCCCCC;
+font-size:18px;
+text-transform:uppercase;
+text-decoration:none;
+
+}
+.content
+{
+
+width:50%;
+margin: 0 auto;
+border:2px solid #0099FF;
+padding:20px;
+margin-top:40px;
+}
+
+
+.text
+{
+padding:1%;
+margin:1%;
+width:300px;
+}
+.footer
+{
+background-color:#0099FF;
+padding:5px 5px;
+margin-top:30px;
+}
+</style>
+</head>
+<body>
+<img src="header.png"  align="left" style="margin-top:10px; margin-left:10px;"/>
+
+<h2 align="center" style="margin-top:20px;">INTERNSHIPWALA CAREER</h2>
+
+
+<div class="navbar">
+<a href="Home.html">Home</a>
+<a href="Courses.html">Course</a>
+<a href="Contact.html">Contact Us</a>
+</div>
+<hr>
+<div class="content">
+<center><h3><u>CONTACT US</u></h3></center>
+<div class="form">
+
+<form action="#">
+<table width="80%" align="center">
+<tr>
+<td><label > Your Name:</label></td>
+<td><input type="text" placeholder="Name"  class="text"></td>
+</tr>
+<tr>
+<td><label> Your Email:</label></td>
+<td><input type="text" placeholder="Email" class="text"></td>
+</tr>
+<tr>
+<td><label> Subject:</label></td>
+<td><input type="text" placeholder="Subject" class="text"></td>
+</tr>
+<tr>
+<td><label> Message:</label></td>
+<td><textarea rows="4" placeholder="Message" class="text"></textarea></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input type="submit" value="Submit" style="background-color:#FFFFFF; color:#0099FF; font-size:18px; width:120px; padding:5px 10px; border:3px solid #0099FF; "></td>
+</tr>
+
+</table>
+</form>
+
+</div>
+
+</div>
+
+<div class="footer">
+<center><p style="color:#CCCCCC;">&copy; Copyright 2020 &nbsp;&nbsp;<a href="">internshipwala</a>&nbsp;&nbsp; |&nbsp;&nbsp; All Rights Reserved </p></center>
+</div>
+</body>
+</html>
